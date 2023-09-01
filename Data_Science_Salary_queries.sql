@@ -1,3 +1,7 @@
+-- DATA USED FROM : https://www.kaggle.com/datasets/harishkumardatalab/data-science-salary-2021-to-2023
+-- 💰 Data Science Salary 💰 2021 to 2023
+-- Unveiling Data Science Salary 💸 Trends 2021-2023󠀤 💸
+
 -- Visualizing the whole table
 SELECT *
 FROM PortfolioProject1..DataScienceSalary
